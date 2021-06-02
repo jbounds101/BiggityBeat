@@ -1,0 +1,1 @@
+image_blend = o_player.color;
